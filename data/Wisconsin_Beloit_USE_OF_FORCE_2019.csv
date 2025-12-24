@@ -1,0 +1,207 @@
+UOF #,CAD#,Offense,Disposition,Date,Sex,Race,Age,Charges,Dialog,HandStrike,Vertical Stun,Decentralizatio,Forearm Strike,Batons,Wrist Compressio,KneeStrke,Less than Lethal,OC,FootStrike,K9Bite,Pressure Points,DiffusedStrike,Firearm,Conducted Energy Device,Other,Alcohol Use,Drug
+UOF19-001A,BE1900763,Domestic Violence,Criminal Arrest,2019-01-06,M,W,26,DC/Battery DV,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,Yes
+UOF19-001B,BE1900763,Domestic Violence,Criminal Arrest,2019-01-06,M,W,26,DC/Battery DV,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,Yes
+UOF19-002,BE1900763,Domestic Violence,Criminal Arrest,2019-01-06,M,W,26,DC/Battery DV,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-003,BE1900981,"Warrant - Bench,AWC",Criminal Arrest,2019-01-08,M,W,23,Resist/Bail Jumping,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-004,BE1901518,"Assault, Police, Simple",Criminal Arrest,2019-01-10,M,B,29,"POCS WITD cocaine, battery to LE, resist/obstruct, warrants, bail jumping",Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,modified passive countermeasures,No,No
+UOF19-005,BE1900912,Warrant Arrest,Criminal Arrest,2019-01-07,F,B,21,Warrants,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-006A,BE1901562,Warrant Arrest,Criminal Arrest,2019-01-11,M,B,40,Probation violation warrant,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-006B,BE1901562,Warrant Arrest,Criminal Arrest,2019-01-11,M,B,40,Probation violation warrant,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-007A,BE1901779,Resist or Interfere w/Police,Criminal Arrest,2019-01-12,F,W,16,DC Resit/Obstr,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-007B,BE1901779,Resist or Interfere w/Police,Criminal Arrest,2019-01-12,F,W,16,DC Resit/Obstr,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-008,BE1901697,5115 Mental Commitment,Emergency Detention Arrest,2019-01-12,M,B,28,Emergency Detention,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-009A,BE1902180,Obstructing Justice,Criminal Arrest,2019-01-15,M,W,35,"Felon in Possession firearm, Resist arrest, CCW, bail jumping",Yes,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-009B,BE1902180,Obstructing Justice,Criminal Arrest,2019-01-15,M,W,35,"Felon in Possession firearm, Resist arrest, CCW, bail jumping",Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-010A,BE1902180,Weapons Offense,Criminal Arrest,2019-01-15,M,W,35,"Felon in Possession firearm, Resist arrest, CCW, bail jumping",Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabiliization in hospital bed,Yes,Yes
+UOF19-010B,BE1902180,Weapons Offense,Criminal Arrest,2019-01-15,M,W,35,"Felon in Possession firearm, Resist arrest, CCW, bail jumping",Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabiliization in hospital b ed,Yes,Yes
+UOF19-010C,BE1902180,Weapons Offense,Criminal Arrest,2019-01-15,M,W,35,"Felon in Possession firearm, Resist arrest, CCW, bail jumping",Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabiliization in hospital b ed,Yes,Yes
+UOF19-011A,BE1905361,Disorderly Conduct,Juvenile Referral,2019-02-05,M,B,13,DC,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,"Taken to floor in cafeteria, stabilization",No,No
+UOF19-011B,BE1905361,Disorderly Conduct,Juvenile Referral,2019-02-05,M,B,13,DC,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,"Taken to floor in cafeteria, stabilization",No,No
+UOF19-012,BE1905026,"Warrant - Bench,AWC",Criminal Arrest,2019-02-02,M,W,39,Warrant,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-013,BE1905035,Disorderly Conduct,No Arrest,2019-02-03,F,W,27,DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive countermeasures,Yes,No
+UOF19-014A,BE1906386,Weapons Offense,Criminal Arrest,2019-02-13,M,B,21,"Warrant, Prwoling, Resi/Obstr, FIPOF, Possesss stolen property (firearms)",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-014B,BE1906386,Weapons Offense,Criminal Arrest,2019-02-13,M,B,21,"Warrant, Prwoling, Resi/Obstr, FIPOF, Possesss stolen property (firearms)",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-015A,BE1906924,Domestic Violence,Criminal Arrest,2019-01-16,W,M,39,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization against car,Yes,No
+UOF19-015B,BE1906924,Domestic Violence,Criminal Arrest,2019-01-16,W,M,39,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization against car,Yes,No
+UOF19-016A,BE1907436,5115 Mental Commitment,Emergency Detention Arrest,2019-02-20,F,W,16,,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-016B,BE1907436,5115 Mental Commitment,Emergency Detention Arrest,2019-02-20,F,W,16,,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-017A,BE1908090,"Assault, No Weap, Agg Injury",Criminal Arrest,2019-02-25,M,B,21,"Strangulation, Battery, Disorderly Conduct & Resist/Obstr",Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-017B,BE1908090,"Assault, No Weap, Agg Injury",Criminal Arrest,2019-02-25,M,B,21,"Strangulation, Battery, Disorderly Conduct & Resist/Obstr",Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-018,BE1907430,5115 Mental Commitment,Emergency Detention Arrest,2019-02-20,F,W,16,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization on hospital bed,No,No
+UOF19-019,BE1906160,Disorderly Conduct,Juvenile Referral,2019-02-11,F,B,10,DC,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Modified decentralization/stabilization,No,No
+UOF19-020,BE1908765,Disorderly Conduct,Criminal Arrest,2019-02-02,M,B,30,DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,Yes,No
+UOF19-021A,BE1906924,Domestic Violence,Criminal Arrest,2019-02-16,M,W,39,DV DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-021B,BE1906924,Domestic Violence,Criminal Arrest,2019-02-16,M,W,39,DV DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-021C,BE1906924,Domestic Violence,Criminal Arrest,2019-02-16,M,W,39,DV DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-022A,BE1909357,Resist or Interfere w/Police,Juvenile Referral,2019-03-06,M,W,15,Resist/Obstr,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-022B,BE1909357,Resist or Interfere w/Police,Juvenile Referral,2019-03-06,M,W,15,Resist/Obstr,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-023,BE1909853,Obstructing Justice,Ordinance Arrest,2019-03-09,F,B,23,Obstructing,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-024,BE1910863,Emergency Detention,Emergency Detention Arrest,2019-03-17,F,W,47,Chapter 51,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-025,BE1910804,Disorderly Conduct,Ordinance Arrest,2019-03-17,M,B,23,DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-026,BE1911899,Warrant Arrest,Criminal Arrest,2019-03-24,M,W,38,"multiple warrants, & resist/obstr",Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,tackled,No,No
+UOF19-027A,BE1912167,Obstructing Justice,Criminal Arrest,2019-03-26,M,B,25,Resisting / Obstructing,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-027B,BE1912167,Obstructing Justice,Criminal Arrest,2019-03-26,M,B,25,Resisting / Obstrucing,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF19-028A,BE1912487,Warrant Arrest,Criminal Arrest,2019-03-28,M,B,40,Probation apprehension warrant,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization of legs,Yes,Yes
+UOF19-028B,BE1912487,Warrant Arrest,Criminal Arrest,2019-03-28,M,B,40,Probation apprehension warrant,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization of legs,Yes,Yes
+UOF19-028C,BE1912487,Warrant Arrest,Criminal Arrest,2019-03-28,M,B,40,Probation apprehension warrant,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabillization of shoulders/arms,Yes,Yes
+UOF19-029A,BE1911424,OWI Alcohol or Drugs,Criminal Arrest,2019-03-21,F,W,31,OWI 3rd,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-029B,BE1911424,OWI Alcohol or Drugs,Criminal Arrest,2019-03-21,F,W,31,OWI 3rd,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-030,BE1911937,Disorderly Conduct,Juvenile Referral,2019-03-25,M,B,14,DC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-030,BE1914298,Disorderly Conduct,Criminal Arrest,2019-04-10,M,B,13,"DC, criminal damage, and resisitng",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-031A,BE1914438,,,2019-04-11,F,B,28,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistance to handcuff,No,No
+UOF19-031B,BE1914438,,,2019-04-11,F,B,28,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistance to handcuff,No,No
+UOF19-032A,BE1914409,"Cont Subs, Possess, Cocaine",Criminal Arrest,2019-04-10,M,W,31,"Dillon J. Welch  Possession of Cocaine  961.41(3g)(c)
+Dillon J. Welch  Resist/Obstruct an Officer  946.41(1)
+Dillon J. Welch  Probation Violation  973.10(1)",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-032B,BE1914409,"Cont Subs, Possess, Cocaine",Criminal Arrest,2019-04-10,M,W,31,"Dillon J. Welch  Possession of Cocaine  961.41(3g)(c)
+Dillon J. Welch  Resist/Obstruct an Officer  946.41(1)
+Dillon J. Welch  Probation Violation  973.10(1)",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-033A,BE1915508,Disorderly Conduct,Criminal Arrest,2019-04-18,M,B,17,DC - DV and Resisting,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-033B,BE1915508,Disorderly Conduct,Criminal Arrest,2019-04-18,M,B,17,DC - DV and Resisting,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-033C,BE1915508,Disorderly Conduct,Criminal Arrest,2019-04-18,M,B,17,DC - DV and Resisting,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-034A,BE1916487,"Assault, Simple",Criminal Arrest,2019-04-24,M,B,23,Resisting,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-034B,BE1916487,"Assault, Simple",Criminal Arrest,2019-04-24,M,B,23,Resisting,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF19-035A,BE1916798,Disorderly Conduct,Criminal Arrest,2019-04-27,F,B,30,Disorderly Conduct,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-035B,BE1916798,Disorderly Conduct,Criminal Arrest,2019-04-27,F,B,30,Disorderly Conduct,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-036A,BE1916944,possession of THC,Criminal Arrest,2019-04-28,M,H,15,"Possession of THC, resisting and prowling",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-036B,BE1916944,possession of THC,Criminal Arrest,2019-04-28,M,H,15,"Possession of THC, resisting and prowling",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-036C,BE1916944,possession of THC,Criminal Arrest,2019-04-28,M,H,15,"Possession of THC, resisting and prowling",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-036D,BE1916944,possession of THC,Criminal Arrest,2019-04-28,M,H,15,"Possession of THC, resisting and prowling",No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-037A,BE1917039,Disorderly Conduct,Criminal Arrest,2019-04-29,M,H,33,DC and resisting,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,,Yes,Yes
+UOF19-037B,BE1917039,Disorderly Conduct,Criminal Arrest,2019-04-29,M,H,33,DC and resisting,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-037C,BE1917039,Disorderly Conduct,Criminal Arrest,2019-04-29,M,H,33,DC and resisting,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-037D,BE1917039,Disorderly Conduct,Criminal Arrest,2019-04-29,M,H,33,DC and resisting,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-037E,BE1917039,Disorderly Conduct,Criminal Arrest,2019-04-29,M,H,33,DC and resisting,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,,Yes,Yes
+UOF19-038A,BE1912806,Disorderly Conduct,Criminal Arrest,2019-03-30,F,W,55,DV DC,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-038B,BE1912806,Disorderly Conduct,Criminal Arrest,2019-03-30,F,W,55,DV DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive countermeasure,No,No
+UOF19-039A,BE1917962,Obstructing Justice,Criminal Arrest,2019-05-04,m,b,31,Resisting / Obstructing,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-039B,BE1917962,Obstructing Justice,Criminal Arrest,2019-05-04,m,b,31,Resisting / Obstructing,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Compliance hold,No,No
+UOF19-040A,BE1917968,51.45,Emergency Detention Arrest,2019-05-05,f,b,27,51.45,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,,Yes,No
+UOF19-040B,BE1917968,51.45,Emergency Detention Arrest,2019-05-05,f,b,27,51.45,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,escort hold,Yes,No
+UOF19-041A,BE1917812,"Assault, Simple",Criminal Arrest,2019-05-04,m,w,63,"DV-DC, Battery and resisting",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,passive countermeasure,No,No
+UOF19-041B,BE1917812,"Assault, Simple",Criminal Arrest,2019-05-04,m,w,63,"DV-DC, Battery and resisting",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,passive countermeasure,No,No
+UOF19-041C,BE1917812,"Assault, Simple",Criminal Arrest,2019-05-04,m,w,63,"DV-DC, Battery and resisting",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-042,BE1932791,OAR cause harm,Criminal Arrest,2019-08-06,M,B,29,OAR causing harm,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,tackled,No,No
+UOF19-043,BE1918231,Disc,Criminal Arrest,2019-05-06,F,B,21,"DC, Tresspass to Land, and resisting.",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive countermeasure.,No,No
+UOF19-044,BE1916184,Disorderly Conduct,Criminal Arrest,2019-04-23,M,W,,"DC, obstructing, & possession of alcohol",Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-045,BE1919641,51.15,Emergency Detention Arrest,2019-05-17,F,W,26,51.15,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-046A,BE1919735,Burglary to Res-NOT IBR RPRTBL,,2019-05-17,M,W,23,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive Resistence,No,No
+UOF19-046B,BE1919735,Burglary to Res-NOT IBR RPRTBL,,2019-05-17,M,W,23,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive Resistence,No,No
+UOF19-047A,Be1919755,assault,Criminal Arrest,2019-05-17,F,W,26,DV - Battery and DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive Countermeasure,No,No
+UOF19-047b,Be1919755,assault,Criminal Arrest,2019-05-17,F,W,26,DV- Battery and DC,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-048,BE1920156,warrant - Probation,Criminal Arrest,2019-05-19,F,W,31,Resisting,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive countermeasure,No,No
+UOF19-049,BE1920053,PWID  Cocaine,Criminal Arrest,2019-05-19,M,B,30,"PWID Cocaine, Possession of THC",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-050,BE1920669,OWI Alcohol or Drugs,Criminal Arrest,2019-05-23,M,W,21,OWI,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Compliance hold pulled subject from vehicle.,No,No
+UOF19-051,BE1920987,"assautlt, knife",Criminal Arrest,2019-05-25,M,B,65,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-052A,BE1921755,OMVOC,Criminal Arrest,2019-05-29,M,W,17,OMVOC and 2 counts of felony bail jumping,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes
+UOF19-052B,BE1921755,Bail Jumping,Criminal Arrest,2019-05-29,M,W,17,Felony Bail Jumping,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Overcome resistance to handcuff,No,No
+UOF19-052C,BE1921755,Bail Jumping,Criminal Arrest,2019-05-29,M,W,17,Felony Bail Jumping,No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,,No,No
+UOF19-053A,BE1922521,51.15,Emergency Detention Arrest,2019-06-03,F,W,34,51.15 and disorderly conduct,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-053B,BE1922521,51.15,Emergency Detention Arrest,2019-06-03,F,W,34,51.15 and disorderly conduct,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,No
+UOF19-054A,BE1922541,51.15,Emergency Detention Arrest,2019-06-04,F,W,34,51.15 and disorderly conduct,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-054B,BE1922541,5115 Mental Commitment,Emergency Detention Arrest,2019-06-03,F,W,34,51.15 and disorderly conduct,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-055A,BE1919205,batttery,Criminal Arrest,2019-05-13,F,B,17,"Battery to police officer, discharging bodily fluids",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-055B,BE1919205,batttery,Criminal Arrest,2019-05-13,F,B,17,Battery to officer and discharging bodily fluids,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-056A,BE1923652,Resisting,Criminal Arrest,2019-06-10,F,W,27,resisting,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,compliance hold,No,No
+UOF19-056B,BE1923652,resisting,Criminal Arrest,2019-06-10,F,W,27,resisting,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,escort hold,No,No
+UOF19-057A,BE1924162,owi,Criminal Arrest,2019-06-14,F,W,26,OWI,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,satbilization for OWI blood draw,Yes,No
+UOF19-057B,BE1924162,owi,Criminal Arrest,2019-06-14,F,W,26,OWI,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stablization for owi blood draw,No,No
+UOF19-058,BE1924393,possession of drug paraphernali,Criminal Arrest,2019-06-15,F,W,35,"possession of drug paraphernalia, resisitng, po hold escape",No,No,No,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,,No,No
+UOF19-059,BE1924857,omvoc,Criminal Arrest,2019-06-18,M,W,17,OMVOC and Burglary,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,passive countermeasure,No,No
+UOF19-060,BE1925116,OASW,Criminal Arrest,2019-06-20,M,B,38,"Felon in possession of firearm, resisting",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,No,No
+UOF19-061A,BE1924691,Disorderly Conduct,Criminal Arrest,2019-06-17,M,W,28,Domestic DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,No,No
+UOF19-061B,BE1924691,Disorderly Conduct,Criminal Arrest,2019-06-17,M,W,28,Domestic DC,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistive tension to handcuff,No,No
+UOF19-062A,BE1925570,Strangulation,Criminal Arrest,2019-06-22,M,W,43,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-062B,BE1925570,Strangulation,Criminal Arrest,2019-06-22,M,W,43,,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF19-063A,BE1925723,Disorderly Conduct,Criminal Arrest,2019-06-23,M,W,19,disorderly conduct,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-063B,BE1925723,Disorderly Conduct,Criminal Arrest,2019-06-23,M,W,19,disorderly conduct,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-064,BE1926436,"Warrant - Bench,AWC",Criminal Arrest,2019-06-27,M,W,33,Body Attachment,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-065A,BE1926836,Possession of cocaine,Criminal Arrest,2019-06-30,M,B,43,Possession of cocaine and resisting,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,Yes
+UOF19-065B,BE1926836,Possession of cocaine,Criminal Arrest,2019-06-30,M,B,43,Possession of cocaine and resisting,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-066,BE1927048,51.15,Emergency Detention Arrest,2019-07-02,F,W,27,51.15,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive countermeasure,No,No
+UOF19-067,BE1927421,Resist or Interfere w/Police,Criminal Arrest,2019-07-04,M,W,27,Resisting,No,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,,Yes,No
+UOF19-068A,BE1929039,PWID Meth,Criminal Arrest,2019-07-14,M,W,,PWID Meth,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Escort hold,No,No
+UOF19-068B,BE1929039,PWID Meth,Criminal Arrest,2019-07-14,M,W,,PWId Meth,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,escort hold,No,No
+UOF19-069A,BE1927623,Robber,Criminal Arrest,2019-07-05,M,B,,Robbery,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,passive countermeasrure,No,No
+UOF19-069A,BE1927623,Robbery,Criminal Arrest,2019-07-05,M,B,,Robbery,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive Counter measure.,No,No
+UOF19-069A,BE1927623,"Robbery, Firearm, Bank",Criminal Arrest,2019-07-05,M,B,,Robbery,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Passive countermeasure and handcuffing,No,No
+UOF19-069A,BE1927623,robbery,Criminal Arrest,2019-07-05,M,B,,Robbery,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-070,BE1928060,Battery,Criminal Arrest,2019-07-08,F,W,16,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-071,BE1930341,Shots Fired,Criminal Arrest,2019-07-23,M,W,30,Felony RES,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-072A,BE1931099,DC,Criminal Arrest,2019-07-27,F,B,32,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-072B,BE1931099,DC,Criminal Arrest,2019-07-27,F,B,32,"DC, resisting, and battery to LE",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-073,BE1931264,51.45,Emergency Detention Arrest,2019-07-28,F,W,18,51.45,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,,Yes,No
+UOF19-074A,BE1929526,OWI,Criminal Arrest,2019-07-16,F,B,46,OWI 3rd,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Hold down during blood draw,Yes,No
+UOF19-074B,BE1929526,OWI Alcohol or Drugs,Criminal Arrest,2019-07-16,F,B,46,OWI 3rd,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Hold down during blood draw,Yes,No
+UOF19-075,BE1930431,Resisting,Criminal Arrest,2019-07-23,M,B,38,Resisting,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,No,No
+UOF19-076,BE1919177,Wanted Person,Criminal Arrest,2019-05-13,,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,No,No
+UOF19-077,BE1930986,DC,Criminal Arrest,2019-07-25,M,B,15,Resisting and DC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilized against squad,No,No
+UOF19-078A,BE1934506,Prowling,Criminal Arrest,2019-08-18,F,W,,Prowling and disordely conduct,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-078B,BE1934506,Prowling,Criminal Arrest,2019-08-18,F,W,,Prowling and disordely conduct,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,Yes,Yes
+UOF19-079,BE1934522,Fleeing,Criminal Arrest,2019-08-18,M,W,26,Fleeing,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,Yes,No
+UOF19-080A,BE1935517,Criminal damage,Criminal Arrest,2019-08-24,M,B,38,Criminal damage and bail jumping,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Overcome physical strength from pulling away,Yes,No
+UOF19-080b,BE1935517,Criminal damage,Criminal Arrest,2019-08-24,M,B,38,Criminal damage and bail jumping,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Overcome physical strength from pulling away,Yes,No
+UOF19-081A,BE1935984,Criminal damage,Criminal Arrest,2019-08-27,F,B,22,"Criminal Damage to property, resisting, obstructing",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-081B,BE1935984,Criminal damage,Criminal Arrest,2019-08-27,F,B,22,"Criminal damage, resisting, obstructing",No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-082,BE1936062,Disorderly Conduct,Criminal Arrest,2019-08-28,F,W,15,Disorderl conduct,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Overcome resitance to handcuff,No,No
+UOF19-083A,BE1912634,Disorderly Conduct,Criminal Arrest,2019-03-29,F,W,39,DC / DV,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistance to handcuff,No,No
+UOF19-083B,BE1912634,Disorderly Conduct,Criminal Arrest,2019-03-29,F,W,39,DC / DV,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistance to handcuff,No,No
+UOF19-083C,BE1912634,Disorderly Conduct,Criminal Arrest,2019-03-29,F,W,39,DC / DV,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistance to handcuff,No,No
+UOF19-084,BE1937555,Retail Theft,Criminal Arrest,2019-09-07,M,B,49,"Retail theft, battery, DC, possession of drug paraphernalia",No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-085A,BE1937801,Battery DV,Criminal Arrest,2019-09-10,F,W,36,Batteryt DV DC and resisting,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-085B,BE1937801,Battery DV,Criminal Arrest,2019-09-10,F,W,36,Batteryt DV DC and resisting,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,compliance hold,Yes,No
+UOF19-086A,BE1937078,battery,Criminal Arrest,2019-09-04,M,W,16,"Battery, throwing missles, DC, and resisting",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Escort hold,No,No
+UOF19-086B,BE1937078,battery,Criminal Arrest,2019-09-04,M,W,16,"Battery, throwing missles, DC, and resisting",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Escort hold,No,No
+UOF19-087,BE1938107,juvenile Capias,Criminal Arrest,2019-09-11,F,B,12,Juvenile Capias,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,overcome resistance to handcuff,No,No
+UOF19-088A,BE1938844,Criminal Damage,Criminal Arrest,2019-09-15,F,W,38,"Criminal damage, resisting",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-088B,BE1938844,Criminal Damage,Criminal Arrest,2019-09-15,F,W,38,"Criminal damage, resisting",No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-088C,BE1938844,Criminal Damage,Criminal Arrest,2019-09-15,F,W,38,"Criminal damage, resisting",No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-089A,BE1937742,51.15,Emergency Detention Arrest,2019-09-09,M,B,22,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-089B,BE1937742,51.15,Emergency Detention Arrest,2019-09-09,M,B,22,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-090A,BE1938922,51.155,Criminal Arrest,2019-09-16,M,W,30,Resisting and probation violation,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,Yes,,No,No
+UOF19-090B,BE1938922,51.155,Criminal Arrest,2019-09-16,M,W,30,Resisting and probation violation,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-091,BE1939295,Truancy,Criminal Arrest,2019-09-18,F,W,13,"Truancy, Battery to PO, Resisting arrest",Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-092A,BE1940018,51.15,Emergency Detention Arrest,2019-09-23,M,B,20,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization to handcuff,No,No
+UOF19-092B,BE1940018,51.15,Emergency Detention Arrest,2019-09-23,M,B,20,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization to handcuff,No,No
+UOF19-092C,BE1940018,51.15,Emergency Detention Arrest,2019-09-23,M,B,20,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization to handcuff,No,No
+UOF19-093A,BE1940962,OWI Alcohol or Drugs,Criminal Arrest,2019-09-29,M,H,19,OWI and obstructing,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF19-093B,BE1940962,OWI Alcohol or Drugs,Criminal Arrest,2019-09-29,M,H,19,OWI and obstructing,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF19-094,BE1940984,DC while armed,Criminal Arrest,2019-09-29,M,B,21,DC while armed,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,stabilization,No,No
+UOF19-095,BE1939870,OWI,Criminal Arrest,2019-09-21,M,W,59,OWI 5th,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization to handcuff,No,No
+UOF19-096,BE1943306,DCC,Juvenile Referral,2019-10-14,M,B,13,DC and resisting,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-097,BE1943939,Substantial battery,Criminal Arrest,2019-10-18,M,W,13,Subtantial battery and DC,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Overcome resistance to handcuff,No,No
+UOF19-098A,BE1945514,"resisting, tresspass, battery",Criminal Arrest,2019-10-29,M,B,14,resisting tresspass battery,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-098B,BE1945514,"resisting, tresspass, battery",Criminal Arrest,2019-10-29,M,B,14,resisting tresspass battery,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-099A,BE1945597,Resist or Interfere w/Police,Criminal Arrest,2019-10-29,M,B,16,resisting,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Hug yoursel decentralization,No,No
+UOF19-099B,BE1945597,Resist or Interfere w/Police,Criminal Arrest,2019-10-29,M,B,16,resisting,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,Hug yoursel decentralization,No,No
+UOF19-100A,BE1948003,Fugitive,Criminal Arrest,2019-11-15,M,B,30,"Fugitive complaint, resisting",No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,Yes,No
+UOF19-100B,BE1948003,Fugitive,Criminal Arrest,2019-11-15,M,B,30,"Fugitive complaint, resisting",No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-100C,BE1948003,Fugitive,Criminal Arrest,2019-11-15,M,B,30,"Fugitive complaint, resisting",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-101,BE1947956,Disorderly Conduct,No Arrest,2019-11-15,M,B,11,School discipline.,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-102A,BE1948503,Warrants,Criminal Arrest,2019-11-19,F,W,27,"Warrants JPD fleeing, RCSO non support",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-102B,BE1948503,Warrants,Criminal Arrest,2019-11-19,F,W,27,"Warrants JPD fleeing, RCSO non support",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-103,BE1948574,DC,Criminal Arrest,2019-11-19,M,W,37,"DC, Battery to officer",No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF19-104A,BE1948940,OWI Alcohol or Drugs,Criminal Arrest,2019-11-22,M,W,28,"OWI, resisting",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-104B,BE1948940,OWI Alcohol or Drugs,Criminal Arrest,2019-11-22,M,W,28,"OWI, resisting",No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,No,No,,Yes,Yes
+UOF19-104C,BE1948940,OWI Alcohol or Drugs,Criminal Arrest,2019-11-22,M,W,28,"OWI, resisting",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,Yes
+UOF19-105,BE1949230,OWI Alcohol or Drugs,Criminal Arrest,2019-11-24,M,W,28,OWI and resisting,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-106,BE1949168,Battery,Criminal Arrest,2019-11-23,F,B,24,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-107,BE1949682,Retail Theft,Criminal Arrest,2019-11-26,F,W,42,Theft and obstructing,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,No,No
+UOF19-108A,BE1950274,Shots fired call,Criminal Arrest,2019-12-01,F,B,18,Resisting and Obstructing,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-108B,BE1950274,Shots fired call,Criminal Arrest,2019-12-01,F,B,18,Resisting and Obstructing,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-108C,BE1950274,Shots fired call,Criminal Arrest,2019-12-01,F,B,18,Resisting and Obstructing,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-109A,BE1951237,51.45,Criminal Arrest,2019-12-08,M,W,31,51.45,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-109B,BE1951237,51.45,Criminal Arrest,2019-12-08,M,W,31,51.45,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-109C,BE1951237,51.45,Criminal Arrest,2019-12-08,M,W,31,51.45,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-109D,BE1951237,51.45,Criminal Arrest,2019-12-08,M,W,31,51.45,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stabilization,No,No
+UOF19-110A,BE1950916,Bomb threat,Criminal Arrest,2019-12-06,M,B,16,"Bomb threat, resisting, tresspassing",No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-110B,BE1950916,Bomb threat,Criminal Arrest,2019-12-06,M,B,16,"Bomb threat, resisting, tresspassing",No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-111A,BE1949742,51.15,Emergency Detention Arrest,2019-11-27,F,B,53,51.15,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,No,No
+UOF19-111B,BE1949742,51.15,Emergency Detention Arrest,2019-11-27,F,B,53,51.15,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-112,BE1947885,Disorderly Conduct,Criminal Arrest,2019-11-15,M,B,49,Resisting,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Stablization,No,No
+UOF19-113A,BE1951849,criminal tresspass,Criminal Arrest,2019-12-13,M,B,41,Criminal tresspass and damage,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,hypoglossal,No,No
+UOF19-113B,BE1951849,criminal tresspass,Criminal Arrest,2019-12-13,M,B,41,Criminal tresspass and damage,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-114,BE1953242,Obstructing Justice,Criminal Arrest,2019-12-22,F,W,22,Resisting,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-115,BE1953250,,,2019-12-22,,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-116,BE1952975,DC and criminal damage,Criminal Arrest,2019-12-20,M,W,15,"DC, criminal damge and battery",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF19-117,BE1953060,,,2019-12-20,,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Deer crash dispatch a deer,No,No

@@ -1,0 +1,40 @@
+UOF #,CAD#,Offense,Disposition,Date,Sex,Race,Age,Charges,Dialog,HandStrike,Vertical Stun,Decentralizatio,Forearm Strike,Batons,Wrist Compressio,KneeStrke,Less than Lethal,OC,FootStrike,K9Bite,Pressure Points,DiffusedStrike,Firearm,Conducted Energy Device,Other,Alcohol Use,Drug
+20-037,BE202220,,,2020-06-04,,,,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-001,BE2000005,5145 Alcohol Commitment,Criminal Arrest,2020-01-01,M,B,29.0,RESISTING/51.45,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,,Yes,No
+UOF20-002,BE2002563,"Assault, No Weap, Agg Injury",Criminal Arrest,2020-01-19,F,W,30.0,"Battery, Criminal Damage, expel bodily fluids and Disorderly Conduct",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF20-003,BE2001600,,No Arrest,2020-01-12,,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,No,No
+UOF20-004,BE2003605,5115 Mental Commitment,Emergency Detention Arrest,2020-01-29,f,w,33.0,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-005,BE2006288,Disorderly Conduct,Criminal Arrest,2020-02-13,m,b,,disorderly conduct/resisting an officer,No,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF20-006,BE2006795,"battery, disorderly conduct",Criminal Arrest,2020-02-17,F,B,23.0,"Battery, DC",No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF20-007,BE2008015,"Curfew or Loitering, Resisting",Ordinance Arrest,2020-02-25,m,w,16.0,curfew violation and resisting,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-008,BE2008642,5115 Mental Commitment,Emergency Detention Arrest,2020-02-29,F,W,20.0,resisting/51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-009,BE2009014,5145 Alcohol Commitment,Emergency Detention Arrest,2020-03-03,M,W,30.0,,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,Yes,No
+UOF20-010,BE2007394,51.15,Emergency Detention Arrest,2020-02-20,m,b,20.0,51.15 Detention,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-011,BE2012935,Disorderly Conduct,,2020-03-30,M,W,31.0,Disorderly Conduct/Resisting,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-012,BE2013056,5115 Mental Commitment,Emergency Detention Arrest,2020-03-31,F,W,36.0,51.15,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-013,BE2012571,OWI Alcohol or Drugs,Criminal Arrest,2020-03-28,M,H,20.0,"RESISTING, OAR, OWI, BAIL JUMPING AND HIT AND RUN TO PROPERTY",No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF20-014,BE2013647,,,2020-04-04,,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,,No,No
+UOF20-015,BE2014417,"DV/DC RESISTING, OWI",Criminal Arrest,2020-04-10,M,B,46.0,"DOMESTIC DC, RESISTING AND OWI",No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,,Yes,No
+UOF20-016,BE2014831,Restraining Order Violation,Criminal Arrest,2020-04-13,F,B,38.0,"TRO violation, Theft",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-017,BE2015952,Resist or Interfere w/Police,Criminal Arrest,2020-04-21,M,W,33.0,POSSESSION OF DRUG PARA AND RESISTING,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes
+UOF20-018,BE2016725,5115 Mental Commitment,Emergency Detention Arrest,2020-04-26,F,w,39.0,51.15,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-019,BE2017022,Resisting,Criminal Arrest,2020-04-28,F,W,,Custody/Resisting,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-020,BE2017342,5115 Mental Commitment,Emergency Detention Arrest,2020-04-30,M,B,65.0,51.15,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes,,No,No
+UOF20-021,BE2017840,5115 Mental Commitment,Emergency Detention Arrest,2020-05-04,M,B,30.0,51.15,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,secured into handcuffs to stabilize as he was emotionally disturbed.,No,No
+UOF20-022,BE2018212,Resist or Interfere w/Police,Criminal Arrest,2020-05-06,M,B,31.0,Resisting and several traffic offenses,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,,No,No
+UOF20-023,BE2018788,Warrant Arrest,Criminal Arrest,2020-05-10,m,w,33.0,"Resisting, warrant arrest,",No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes
+UOF20-024,BE2019088,Resist or Interfere w/Police,Criminal Arrest,2020-05-12,M,B,41.0,"resisting, possession of thc",No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,,No,Yes
+UOF20-025,BE2019373,Resist or Interfere w/Police,Criminal Arrest,2020-05-14,m,b,27.0,"poss. Thc, resisting",Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,Yes
+UOF20-026,BE2019445,Resist or Interfere w/Police,Criminal Arrest,2020-05-14,F,H,39.0,BATTERY TO POLICE OFFICER,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-027,BE2019843,5115 Mental Commitment,Emergency Detention Arrest,2020-05-17,M,B,14.0,51.15,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-028,BE2018098,"Assault, Simple",Juvenile Referral,2020-05-06,M,B,13.0,"Battery, DC and resisting",No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-029,BE2019843,5115 Mental Commitment,Emergency Detention Arrest,2020-05-18,M,B,,51.15,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-030,BE2020713,OWI Alcohol or Drugs,Criminal Arrest,2020-05-22,M,W,35.0,,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,,Yes,No
+UOF20-031,BE2020438,Resist or Interfere w/Police,Criminal Arrest,2020-05-21,M,B,,"Felony Apprehension Request, Failure to Comply, Felony Bail Jumping",No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,,Yes,Yes
+UOF20-032,BE2020463,Resist or Interfere w/Police,Criminal Arrest,2020-05-21,,,,,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,,No,No
+UOF20-033,BE2021538,5115 Mental Commitment,Emergency Detention Arrest,2020-05-27,M,w,35.0,51.15,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No,,No,No
+UOF20-034,BE2022235,Disorderly Conduct,Criminal Arrest,2020-05-31,m,b,20.0,,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-035,BE2022509,,Criminal Arrest,2020-06-02,m,b,31.0,,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-036,BE2022344,,Criminal Arrest,2020-06-01,F,B,,Resisting,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-036,BE2022698,,,2020-06-04,,,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
+UOF20-037,BE2022720,,Criminal Arrest,2020-06-04,,,,,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,,No,No
