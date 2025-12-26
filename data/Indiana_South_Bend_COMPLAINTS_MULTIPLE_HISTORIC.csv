@@ -1,0 +1,148 @@
+OBJECTID,Month_Year,Type_of_Complaint,Disposition,Admin_Investigation
+1,2016,Driving,Sustained,No
+2,2016,Professionalism,Not Sustained,No
+3,2016,Professionalism,Sustained,No
+4,2016,Professionalism,Sustained,No
+5,2016,Professionalism,Sustained,No
+6,2016,Professionalism,Not Sustained,No
+7,2016,Professionalism,Not Sustained,No
+8,2016,Professionalism,Unfounded,No
+9,2016,Driving,Exonerated,No
+10,2016,Professionalism,Sustained,No
+11,2016,Professionalism,Sustained,No
+12,2016,Use of Force,Exonerated,No
+13,2016,Professionalism,Sustained,Yes
+14,2016,Professionalism,Sustained,No
+15,2016,Professionalism,Sustained,No
+16,2016,Professionalism,Exonerated,No
+17,2016,Professionalism,Sustained,No
+18,2016,Professionalism,Exonerated,No
+19,2016,Use of Force,Exonerated,No
+20,2016,Professionalism,Sustained,No
+21,2016,Professionalism,Exonerated,No
+22,2016,Professionalism,Exonerated,No
+23,2016,Professionalism,Sustained,No
+24,2016,Use of Force,Exonerated,No
+28,2016,Professionalism,Sustained,No
+404,2016,Use of Force,Exonerated,Yes
+29,2016,Professionalism,Exonerated,No
+30,2016,Professionalism,Not Sustained,No
+31,2016,Professionalism,Not Sustained,No
+402,2016,Professionalism,Sustained,No
+403,2017,Professionalism,Unfounded,No
+813,2017,Professionalism,Sustained,No
+809,2017,Professionalism,Exonerated,No
+810,2017,Professionalism,Unfounded,No
+811,2017,Professionalism,Policy/Training,No
+812,2017,Professionalism,Policy/Training,No
+814,2017,Professionalism,Sustained,No
+815,2017,Professionalism,Not Sustained,No
+816,2017,Use of Force,Exonerated,No
+817,2017,Professionalism,Not Sustained,No
+818,2018,Excessive Force,Exonerated,No
+819,2018,Excessive Force,Exonerated,No
+820,2018,Professionalism,Sustained,No
+822,2018,Professionalism,Sustained,No
+823,2018,Professionalism,Exonerated,No
+824,2018,Professionalism,Not Sustained,No
+821,2018,Professionalism,Exonerated,No
+825,2018,Professionalism,Not Sustained,No
+826,2018,Professionalism,Unfounded,No
+827,2018,Professionalism,Withdrawn,No
+828,2018,Professionalism,Sustained,No
+830,2018,Professionalism,Sustained,Yes
+831,2018,Reporting,Sustained,Yes
+1232,2019,Professionalism,Sustained,
+1233,2019,Excessive Force,Exonerated,No
+1234,2019,Professionalism,Not Sustained,No
+1235,2019,Professionalism,Sustained,No
+1236,2019,Professionalism,Sustained,No
+1237,2019,Professionalism,Exonerated,No
+1238,2019,Professionalism,Exonerated,No
+1239,2019,Professionalism,Exonerated,No
+1240,2019,Professionalism,Exonerated,No
+2064,2020,Courtesy,Unfounded,No
+2065,2020,Use of Force,Unfounded,No
+2063,2020,Impound Policy,Exonerated,No
+2073,2020,Impound Policy,"Exonerated",No
+2074,2020,"Courtesy",Unfounded,No
+2075,2020,Use of Force,Unfounded,No
+1243,2020,Reporting,Exonerated,No
+1244,2020,Professionalism,Unfounded,No
+1245,2020,Professionalism,Exonerated,No
+1246,2020,Prop/Reporting,Unfounded,No
+1241,2020,Use of Force,Pending,No
+1247,2020,Professionalism,Exonerated,No
+1248,2020,Professionalism,Unfounded,No
+2066,2020,Courtesy,Pending,No
+2076,2020,Courtesy,PENDING,No
+1249,2020,Driving,Not Sustained,No
+1250,2020,Reporting,Not Sustained,No
+1251,2020,Excessive Force,Unfounded,No
+1252,2020,Courtesy,Exonerated,No
+2057,2020,Courtesy,Sustained,No
+2058,2020,Courtesy,Unfounded,No
+1656,2020,Excessive Force,Unfounded,No
+2067,2020,Courtesy,Sustained,No
+2068,2020,Courtesy,Unfounded,No
+1253,2020,Abuse of Authority,Exonerated,No
+1254,2020,Policy Violation,Unfounded,No
+1255,2020,Prop/Evidence,Exonerated,No
+1256,2020,Courtesy,Exonerated,No
+1645,2020,Courtesy,"Unfounded",No
+1646,2020,Courtesy,"Unfounded",No
+2059,2020,Reporting,Sustained,No
+2069,2020,"Reporting",Sustained,No
+1644,2020,Courtesy,"Exonerated",No
+2070,2020,Courtesy,Exonerated,No
+2060,2020,Courtesy,Exonerated,No
+1647,2020,"Search and Seizure","Unfounded",No
+1648,2020,"Courtesy","Exonerated",No
+1649,2020,"Excessive Force","Exonerated",No
+2061,2020,Property,Exonerated,No
+2071,2020,Property,Exonerated,No
+1650,2020,"Courtesy","Unfounded",No
+1651,2020,"Courtesy","Unfounded",No
+1652,2020,"Performance","Unfounded",No
+1653,2020,"Search and Seizure",Sustained,No
+2072,2020,Courtesy,Unfounded,No
+2062,2020,Courtesy,Unfounded,No
+1654,2020,"Neutral Attitude","Unfounded",No
+1655,2020,"Courtesy","Unfounded",No
+2078,2021,Excessive Force,Unfounded,No
+2079,2021,Courtesy,Exonerated,No
+2080,2021,Reporting,Exonerated,No
+2081,2021,Courtesy,Exonerated,No
+2082,2021,Courtesy,Unfounded,No
+2083,2021,Impound,Exonerated,No
+2084,2021,Excessive Force,Unfounded,No
+2085,2021,Reporting/Courtesy,Unfounded,No
+2087,2021,Courtesy,Exonerated,No
+2086,2021,Excessive Force,Admin Closure,No
+2101,2021,Courtesy,Exonerated,No
+2102,2021,Courtesy,Exonerated,No
+2103,2021,Courtesy,Exonerated,No
+2104,2021,Courtesy,Exonerated,No
+2105,2021,Case Reporting,Exonerated,No
+2106,2021,Case Reporting,Exonerated,No
+2089,2021,Courtesy,Exonerated,No
+2088,2021,Courtesy,Exonerated,No
+2090,2021,Courtesy,Exonerated,No
+2091,2021,Case Reporting,Exonerated,No
+2092,2021,Case Reporting,Exonerated,No
+2093,2021,Use of Force,Unfounded,No
+2109,2021,Courtesy,Unfounded,No
+2095,2021,Courtesy,Unfounded,No
+2094,2021,Courtesy,Exonerated,No
+2110,2021,Use of Force,Unfounded,No
+2111,2021,Case Reporting,Sustained,Yes
+2113,2021,Excessive Force,Unfounded,No
+2098,2021,Courtesy,Unfounded,No
+2107,2021,Use of Force,Unfounded,No
+2096,2021,Use of Force,Unfounded,No
+2099,2021,Excessive Force,Unfounded,No
+2097,2021,Case Reporting,Sustained,Yes
+2108,2021,Courtesy,Exonerated,No
+2112,2021,Courtesy,Unfounded,No
+2114,2021,Courtesy,Unfounded,No
+2115,2021,Excessive Force,Unfounded,No

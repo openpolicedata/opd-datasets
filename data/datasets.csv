@@ -1,10 +1,10 @@
 State, Source, TableType, Backup Downloaded From, Reason for Including
 Michigan, Lansing, COMPLAINTS, https://services1.arcgis.com/pNPbgWy7hpfFGWoZ/arcgis/rest/services/Lansing_MI_Police_Citizen_Complaints/FeatureServer/0/query?outFields=*&where=1%3D1, Data removed from https://data-lansing.opendata.arcgis.com
 Michigan, Lansing, OFFICER-INVOLVED SHOOTINGS, https://services1.arcgis.com/pNPbgWy7hpfFGWoZ/arcgis/rest/services/OfficerInvolvedShooting/FeatureServer/0/query?outFields=*&where=1%3D1, Data removed from https://data-lansing.opendata.arcgis.com
-Missouri, St. Louis County, USE OF FORCE, https://www.arcgis.com/sharing/rest/content/items/9ba9c606ce9a486d98875442e600f861/data, Data removed from https://data.stlouisco.com
-Washington, Bremerton, ARRESTS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
-Washington, Bremerton, CITATIONS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
-Washington, Bremerton, INCIDENTS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
+Missouri,St. Louis County,USE OF FORCE, https://www.arcgis.com/sharing/rest/content/items/9ba9c606ce9a486d98875442e600f861/data, Data removed from https://data.stlouisco.com
+Washington,Bremerton,ARRESTS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
+Washington,Bremerton, CITATIONS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
+Washington,Bremerton, INCIDENTS, http://www.bremertonwa.gov/DocumentCenter/View/4949/April-2017-PDF, Datasets for all other months (including other ones labeled PDF) were tabular except this one
 Wisconsin,Milwaukee,COMPLAINTS,https://data.milwaukee.gov/dataset/fpc-citizen-complaints,Data is no longer available through CKAN and CSV link is temporary
 Wisconsin,Beloit,USE OF FORCE,http://gouda.beloitwi.gov/WebLink/0/edoc/66423/3Use%20of%20Force%202017%20-%20last%20updated%201-12-18.xls,Data was removed before 7/20/2025
 Wisconsin,Beloit,USE OF FORCE,http://gouda.beloitwi.gov/WebLink/0/edoc/68367/3Use%20of%20Force%202018%20-%20Updated%20-18-18.xls,Data was removed before 7/20/2025
@@ -12,3 +12,4 @@ Wisconsin,Beloit,USE OF FORCE,http://gouda.beloitwi.gov/WebLink/0/edoc/71724/2Us
 Wisconsin,Beloit,USE OF FORCE,http://gouda.beloitwi.gov/WebLink/0/edoc/72935/1Use%20of%20Force%202020%20-%20Updated%20on%206-12-2020.xls,Data was removed before 7/20/2025
 Vermont,Rutland,TRAFFIC STOPS,http://www.rutlandcitypolice.com/app/download/5136856/MotorVehicleStop.xlsx,Data was removed before 6/19/2025
 Vermont,Rutland,USE OF FORCE,http://www.rutlandcitypolice.com/app/download/5136813/ResponseToResistance+2015-2017.xls,Data was removed before 6/19/2025
+Indiana,South Bend,COMPLAINTS,https://gis.southbendin.gov/arcgis/rest/services/OpenData/Police_Community_Complaints/MapServer/1,Data was removed before 11/13/2024
